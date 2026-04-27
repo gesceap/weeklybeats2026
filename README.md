@@ -1,6 +1,6 @@
 # WeeklyBeats 2026
 
-All nanoloop mobile song files and mp3s for songs uploaded to weeklybeats 2020
+All nanoloop mobile song files and mp3s for songs uploaded to weeklybeats 2026
 
 * WeeklyBeats: [https://weeklybeats.com/gesceap](https://weeklybeats.com/gesceap)
 * Youtube: [https://www.youtube.com/c/Gesceap](https://www.youtube.com/c/Gesceap)
