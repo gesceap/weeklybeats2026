@@ -14,23 +14,23 @@ All nanoloop mobile song files and mp3s for songs uploaded to weeklybeats 2026
 
 | Week Number | Filename | Song Name | OS | BPM |
 |-|-|-|-|-|
-|  1 | | fabc37c | | | |
-|  2 | Autodestruct04.nan | Autodestruct | | | |
-|  3 | Dynsymp091rv2.nan | Dynsymp091rv2 | | | |
-|  4 | Boklc04.nan | Boklc | | | |
-|  5 | Omndhrki06.nan | Omndhrki | | | |
+|  1 | | fabc37c | Android | | |
+|  2 | Autodestruct04.nan | Autodestruct | iOS | | |
+|  3 | Dynsymp091rv2.nan | Dynsymp091rv2 | iOS | | |
+|  4 | Boklc04.nan | Boklc | iOS | | |
+|  5 | Omndhrki06.nan | Omndhrki | iOS | | |
 |  6 | | Rigidity | | | |
-|  7 | Fabc46c.nan | fabc46c | | | |
+|  7 | Fabc46c.nan | fabc46c | iOS | | |
 |  8 | | Smkit | | | |
-|  9 | Gchft05.nan | Gchft | | | |
-| 10 | Dendromitologistica01b03.nan | Dendromitologistica | | | |
-| 11 | Santoritmo03.nan | Santo Ritmo | | | |
-| 12 | Zenmate01b04.nan | Zenmate | | | |
-| 13 | Otherbedside04.nan | Other Bedside | | | |
-| 14 | Reditimort02b02.nan | Reditimort | | | |
-| 15 | Brvsmisl03.nan | Brvsmisl | | | |
-| 16 | Blehe04.nan | Blehe | | | |
-| 17 | Qwtp02.nan | Qwtp | | | |
+|  9 | Gchft05.nan | Gchft | iOS | | |
+| 10 | Dendromitologistica01b03.nan | Dendromitologistica | iOS | | |
+| 11 | Santoritmo03.nan | Santo Ritmo | iOS | | |
+| 12 | Zenmate01b04.nan | Zenmate | iOS | | |
+| 13 | Otherbedside04.nan | Other Bedside | iOS | | |
+| 14 | Reditimort02b02.nan | Reditimort | iOS | | |
+| 15 | Brvsmisl03.nan | Brvsmisl | iOS | | |
+| 16 | Blehe04.nan | Blehe | iOS | | |
+| 17 | Qwtp02.nan | Qwtp | iOS | | |
 | 18 | | | | | |
 | 19 | | | | | |
 | 20 | | | | | |
