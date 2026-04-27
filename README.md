@@ -19,9 +19,9 @@ All nanoloop mobile song files and mp3s for songs uploaded to weeklybeats 2026
 |  3 | Dynsymp091rv2.nan | Dynsymp091rv2 | iOS | | |
 |  4 | Boklc04.nan | Boklc | iOS | | |
 |  5 | Omndhrki06.nan | Omndhrki | iOS | | |
-|  6 | | Rigidity | | | |
+|  6 | | Rigidity | iOS | | |
 |  7 | Fabc46c.nan | fabc46c | iOS | | |
-|  8 | | Smkit | | | |
+|  8 | | Smkit | iOS | | |
 |  9 | Gchft05.nan | Gchft | iOS | | |
 | 10 | Dendromitologistica01b03.nan | Dendromitologistica | iOS | | |
 | 11 | Santoritmo03.nan | Santo Ritmo | iOS | | |
