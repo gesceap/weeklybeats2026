@@ -14,23 +14,23 @@ All nanoloop mobile song files and mp3s for songs uploaded to weeklybeats 2026
 
 | Week Number | Filename | Song Name | OS | BPM |
 |-|-|-|-|-|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
-| 7 | | | | | |
-| 8 | | | | | |
-| 9 | | | | | |
-| 10 | | | | | |
-| 11 | | | | | |
-| 12 | | | | | |
-| 13 | | | | | |
-| 14 | | | | | |
-| 15 | | | | | |
-| 16 | | | | | |
-| 17 | | | | | |
+|  1 | | fabc37c | | | |
+|  2 | | Autodestruct | | | |
+|  3 | | Dynsymp091rv2 | | | |
+|  4 | | Boklc | | | |
+|  5 | | Omndhrki | | | |
+|  6 | | Rigidity | | | |
+|  7 | | fabc46c | | | |
+|  8 | | Smkit | | | |
+|  9 | | Gchft | | | |
+| 10 | | Dendromitologistica | | | |
+| 11 | | Santo Ritmo | | | |
+| 12 | | Zenmate | | | |
+| 13 | | Other Bedside | | | |
+| 14 | | Reditimort | | | |
+| 15 | | Brvsmisl | | | |
+| 16 | | Blehe | | | |
+| 17 | | Qwtp | | | |
 | 18 | | | | | |
 | 19 | | | | | |
 | 20 | | | | | |
