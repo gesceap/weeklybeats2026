@@ -76,11 +76,11 @@ https://github.com/gesceap/weeklybeats2026/archive/refs/heads/main.zip
 # Notes
 
 Versions:
-* iOS version 3.3.3
-* Android version 4.1.2
+* Nanoloop iOS version - `3.3.3`
+* Nanoloop Android version - `4.1.2`
 
 Compatibility:
-* Nanoloop iOS made songs are compatible with Nanoloop Android (3.3.3)
-* Nanoloop Android made songs are not compatible with Nanoloop iOS
+* Nanoloop iOS songs are compatible with Nanoloop Android
+* Nanoloop Android songs are **not** compatible with Nanoloop iOS
 
 
