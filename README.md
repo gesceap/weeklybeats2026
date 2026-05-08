@@ -31,7 +31,7 @@ All nanoloop mobile song files and mp3s for songs uploaded to weeklybeats 2026
 | 15 | Brvsmisl03.nan | Brvsmisl | iOS | | |
 | 16 | Blehe04.nan | Blehe | iOS | | |
 | 17 | Qwtp02.nan | Qwtp | iOS | | |
-| 18 | fabc43b01.nan | fabc43b | iOS | | |
+| 18 | fabc43b01.nan | fabc43b | Android | | |
 | 19 | Debitz103.nan | Debitz | iOS | | |
 | 20 | | | | | |
 | 21 | | | | | |
