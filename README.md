@@ -33,8 +33,8 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2026
 | 17 | Qwtp02.nan | Qwtp | iOS | | |
 | 18 | fabc43b01.nan | fabc43b | Android | | |
 | 19 | Debitz103.nan | Debitz | iOS | | |
-| 20 | | | | | |
-| 21 | | | | | |
+| 20 | | Ending | iOS | | |
+| 21 | Cncla02.nan | Cncla | iOS | | |
 | 22 | | | | | |
 | 23 | | | | | |
 | 24 | | | | | |
