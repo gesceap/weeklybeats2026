@@ -35,8 +35,8 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2026
 | 19 | Debitz103.nan | Debitz | iOS | | |
 | 20 | | Ending | iOS | | |
 | 21 | Cncla02.nan | Cncla | iOS | | |
-| 22 | | | | | |
-| 23 | | | | | |
+| 22 | Swairlinedu05.nan | Swairlinedu | iOS | | |
+| 23 | Wollowilt02.nan | Wollowilt | iOS | | |
 | 24 | | | | | |
 | 25 | | | | | |
 | 26 | | | | | |
