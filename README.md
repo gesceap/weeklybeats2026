@@ -5,7 +5,6 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2026
 * WeeklyBeats: [https://weeklybeats.com/gesceap](https://weeklybeats.com/gesceap)
 * Youtube: [https://www.youtube.com/c/Gesceap](https://www.youtube.com/c/Gesceap)
 * Facebook: [https://www.facebook.com/gesceap/](https://www.facebook.com/gesceap/)
-* Twitter: [https://twitter.com/gesceap_](https://twitter.com/gesceap_)
 * Bandcamp: [https://gesceap.bandcamp.com/](https://gesceap.bandcamp.com/)
 * Soundcloud: [https://soundcloud.com/gesceap](https://soundcloud.com/gesceap)
 * Github: [https://github.com/gesceap](https://github.com/gesceap)
