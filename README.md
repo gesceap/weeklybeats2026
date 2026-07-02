@@ -39,7 +39,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2026
 | 24 | Sicknesscold05.nan | Sicknesscold | Android | | |
 | 25 | Tapetestlibrarymusic04.nan | Tapetestlibrarymusic | iOS | | |
 | 26 | Hpit04.nan | Hpit | iOS | | |
-| 27 | | | | | |
+| 27 | Consentwo03.nan | Consentwo | iOS | | |
 | 28 | | | | | |
 | 29 | | | | | |
 | 30 | | | | | |
