@@ -40,9 +40,9 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2026
 | 25 | Tapetestlibrarymusic04.nan | Tapetestlibrarymusic | iOS | | |
 | 26 | Hpit04.nan | Hpit | iOS | | |
 | 27 | Consentwo03.nan | Consentwo | iOS | | |
-| 28 | | | | | |
-| 29 | | | | | |
-| 30 | | | | | |
+| 28 | Fiumicicho04.nan | Fiumicicho | iOS | | |
+| 29 | Wiursdmk02.nan | Wiursdmk | iOS | | |
+| 30 | Safety05.nan | Safety | iOS | | |
 | 31 | | | | | |
 | 32 | | | | | |
 | 33 | | | | | |
