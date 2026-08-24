@@ -45,8 +45,8 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2026
 | 30 | Safety05.nan | Safety | iOS | | |
 | 31 | Fabc57.nan | Fabc57 | iOS | | |
 | 32 | Gufolectro03.nan | Gufolectro | iOS | | |
-| 33 | | | | | |
-| 34 | | | | | |
+| 33 | Klipt | Klipt | iOS | | |
+| 34 | Hetldustp04.nan | Hetldustp | iOS | | |
 | 35 | | | | | |
 | 36 | | | | | |
 | 37 | | | | | |
