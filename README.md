@@ -47,8 +47,8 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2026
 | 32 | Gufolectro03.nan | Gufolectro | iOS | | |
 | 33 | Klipt04.nan | Klipt | iOS | | |
 | 34 | Hetldustp04.nan | Hetldustp | iOS | | |
-| 35 | | | | | |
-| 36 | | | | | |
+| 35 | Ambexp023drops.nan | Ambexp023drops | Android | | |
+| 36 | Wistaway04b04.nan | Wistaway | Android | | |
 | 37 | | | | | |
 | 38 | | | | | |
 | 39 | | | | | |
