@@ -13,7 +13,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2026
 
 | Week Number | Filename | Song Name | OS | BPM |
 |-|-|-|-|-|
-|  1 | | fabc37c | Android | | |
+|  1 | fabc37c01.nan | fabc37c | Android | | |
 |  2 | Autodestruct04.nan | Autodestruct | iOS | | |
 |  3 | Dynsymp091rv2.nan | Dynsymp091rv2 | iOS | | |
 |  4 | Boklc04.nan | Boklc | iOS | | |
